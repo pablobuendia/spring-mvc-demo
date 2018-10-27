@@ -22,7 +22,7 @@
 
 <br><br>
 
-<a href="showForm">Hello World form</a>
+<a href="hello/showForm">Hello World form</a>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
